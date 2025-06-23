@@ -59,8 +59,9 @@ We are currently working on including more process of these industries as well a
   - Wastewater treatment plants
   - Manufacturing
   - Pulp and paper industry
-  - Fashion industry
-  - Data centers
+  - Crude oil refinery
+  - Waste incineration
+  - Biorefinery
 
 Finally, we have not included for the moment any process to produce the energy requirements or methods to capture and reuse emissions or waste.  
 
